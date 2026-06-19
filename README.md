@@ -52,8 +52,4 @@ The dashboard includes summary cards for:
 - Event-wise medal distribution patterns.
 
 ### Dashboard Preview
-
-> Add the screenshot of Page 2 here.
-
-```markdown
-![Olympic Dashboard Page 2](ss/ss1.png)
+[Olympic Dashboard Page 2](ss/ss1.png)
