@@ -1,4 +1,4 @@
-## Dashboard Page 2 – Athlete & Medal Analysis
+## Olympic Analysis Dashboard – Athlete & Medal 
 
 This page provides a detailed analysis of Olympic athletes, medals, events, and regional participation through various interactive visualizations.
 
